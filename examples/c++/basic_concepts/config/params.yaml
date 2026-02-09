@@ -1,8 +1,8 @@
 /**:
   ros__parameters:
-    topic_name: "counter"
+    topic_name: "counterr"
 
 /publisher_demonstration:
   ros__parameters:
-    publish_rate: 20 # hz
+    publish_rate: 15 # hz
 

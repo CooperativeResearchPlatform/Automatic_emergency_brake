@@ -3,17 +3,14 @@
 <package format="3">
   <name>velocity_estimator</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="jodavid512@gmail.com">david</maintainer>
-  <license>TODO: License declaration</license>
+  <description>Demonstrating a node approximating velocity from displacement (rclcpp)</description>
+  <maintainer email="jozsa.david@sze.hu">david</maintainer>
+  <license>Apache License 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
   <depend>rclcpp</depend>
   <depend>geometry_msgs</depend>
-
-  <test_depend>ament_lint_auto</test_depend>
-  <test_depend>ament_lint_common</test_depend>
 
   <export>
     <build_type>ament_cmake</build_type>
